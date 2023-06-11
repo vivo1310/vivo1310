@@ -65,7 +65,10 @@ Hi there! I'm Vi Vo, a friendly and passionate Frontend Engineer with a keen int
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vivo1310&theme=react&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vivo1310&icon=4&color=12)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=vivo1310&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
