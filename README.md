@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-Hi there! I'm Vi Vo, a friendly and passionate Frontend Engineer with a keen interest in creating accessible and inclusive user experiences. I specialize in JavaScript and React JS leveraging my skills to craft beautiful and functional frontend applications. I believe that technology should be accessible to all, and I'm dedicated to ensuring that my code meets the highest standards of usability and inclusivity. Let's connect and make the web a better place for everyone! 🌐
+Hi there! I'm Vi Vo, a friendly and passionate Software Engineer with a keen interest in creating accessible and inclusive user experiences. I specialize in JavaScript and React JS leveraging my skills to craft beautiful and functional frontend applications. I believe that technology should be accessible to all, and I'm dedicated to ensuring that my code meets the highest standards of usability and inclusivity. Let's connect and make the web a better place for everyone! 🌐
 
 
 ## 🌐 Socials:
